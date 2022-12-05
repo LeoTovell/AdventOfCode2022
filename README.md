@@ -7,8 +7,8 @@ For some of them if I have free time I might try to make them as little lines as
                             / \
                            J   L
                      ------'   `------
-                      `.           .'
-                        `.       .'
+                      `.    Leo    .'
+                        `. Tovell.'
                          /       \
                         J   .'.   L
                         |.' | |`. |
@@ -62,5 +62,5 @@ For some of them if I have free time I might try to make them as little lines as
                        |                 |
                        |                 |
                        |                 |
-  VK                   (                 )
+                       (                 )
                         `----._____.----'```
